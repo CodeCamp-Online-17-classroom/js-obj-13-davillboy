@@ -13,3 +13,5 @@ console.log(product1); // *
 console.log(product2); // **
 console.log(product1 === product2); // ***
 ```
+
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
